@@ -1,0 +1,282 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &107266
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 22420428}
+  - component: {fileID: 22235896}
+  - component: {fileID: 11437358}
+  - component: {fileID: 11499534}
+  - component: {fileID: 22544432}
+  - component: {fileID: 114995433871285930}
+  - component: {fileID: 114771096699531454}
+  m_Layer: 5
+  m_Name: card SIS
+  m_TagString: cardNew
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &151050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 22412934}
+  - component: {fileID: 22209126}
+  - component: {fileID: 11407982}
+  - component: {fileID: 114371615843244370}
+  m_Layer: 5
+  m_Name: Card Description
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &11407982
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 151050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 13
+    m_FontStyle: 1
+    m_BestFit: 1
+    m_MinSize: 1
+    m_MaxSize: 40
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: This is a super powerful awesome card that makes you win.
+--- !u!114 &11437358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &11499534
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: -1
+  m_MinHeight: -1
+  m_PreferredWidth: 125
+  m_PreferredHeight: 200
+  m_FlexibleWidth: 0
+  m_FlexibleHeight: 0
+--- !u!222 &22209126
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 151050}
+--- !u!222 &22235896
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107266}
+--- !u!224 &22412934
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 151050}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 22420428}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -0.23999, y: 20.46}
+  m_SizeDelta: {x: -23.24, y: 54.46}
+  m_Pivot: {x: 0.5, y: 0}
+--- !u!224 &22420428
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107266}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 22412934}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!225 &22544432
+CanvasGroup:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107266}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 107266}
+  m_IsPrefabParent: 1
+--- !u!114 &114371615843244370
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 151050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64350d196b74772428b7263f4649a823, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thisObject: {fileID: 0}
+  thisParentObject: {fileID: 0}
+  agressiveStatements:
+  - You're such a pest.
+  - Did anyone tell you that you're evil?
+  - Devil spawn.
+  - Extortionist.
+  - Sugar coated demon.
+  - Don't get in my way, sister.
+  - You've crossed the wrong man.
+  - I'm gonna wring your neck.
+  - You will never be a princess.
+  - Princesses...don't get happy endings, ya dig?
+  kindStatements:
+  - I love you.
+  - You are my princess.
+  - I'll give you candy.
+  - Help me and I'll give you all the rides you want.
+  - I'll buy you a tiara.
+  - I'll play any game with you.
+  - I'll take the blame next time you get in trouble.
+  - I'll give you my bike.
+  - We can make Brother's life harder.
+  - You can have my T.V. time.
+  withdrawnStatements:
+  - You aren't that bad a nuisance.
+  - Eh, you could be cuter.
+  - Are you even trying?
+  - Meh.
+  - I just don't care.
+  - You aren't really important.
+  - Help ya bro, out of love?
+  - The car can be your chariot.
+  - Oh no...I'm losing.
+  - I wish I could care.
+--- !u!114 &114771096699531454
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37046490370dc39448fc5e280f8c189b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfCards: 0
+  CardType: 0
+--- !u!114 &114995433871285930
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50572073415ac9d4e9c9e8030946cad0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentToReturnTo: {fileID: 0}
+  placeholderParent: {fileID: 0}
+  thisObject: {fileID: 0}
+  TheCardDescription: {fileID: 0}
+  thisObjectString: 
+  villain: {fileID: 1107922213109862, guid: 1a601044b9390ae46a2bea500dd1c24b, type: 2}
+  hero: {fileID: 0}
+  findingTheImageObject: {fileID: 0}
+  findTheCardBackground: []
+  cardName: {fileID: 0}
+  cardColor: {r: 0, g: 0, b: 0, a: 0}
+  m_SpriteRenderer: {fileID: 0}
+  theNameOFhisObject: {fileID: 0}
+  music: {fileID: 0}
+  facesOfEmotion:
+  - {fileID: 21300006, guid: fef88f4daed0e094b8514208e1b9bb79, type: 3}
+  - {fileID: 21300002, guid: fef88f4daed0e094b8514208e1b9bb79, type: 3}
+  - {fileID: 21300004, guid: fef88f4daed0e094b8514208e1b9bb79, type: 3}
+  cardbody:
+  - {fileID: 21300000, guid: 6b571edd2a6b95c40991c0a34c27c36f, type: 3}
+  - {fileID: 21300000, guid: f225cd95825cde740b653dfb1768fb29, type: 3}
+  - {fileID: 21300000, guid: 3139f409158f88546ae5e2bc0a8087bc, type: 3}

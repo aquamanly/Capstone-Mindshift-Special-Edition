@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/_OverScne.unity
+    guid: f2dcf448c60dc5a41af47508a3ac713c
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/_Start.unity
+    guid: 5a51602941cbcbd4aa29119253e08e8c
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc1.unity
+    guid: 52226227be5a57243be013b3b8109731
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc2.unity
+    guid: a65fe55bf158fff49890d0a4602c758a
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc3.unity
+    guid: 815135475e9495b4b9a02c2ad0558978
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc4.unity
+    guid: 147b5e5bf20448c4ba39d1997ffa646e
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc5.unity
+    guid: 1bbbfc827b1b60b43b350ff8f57b204e
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc6.unity
+    guid: 5c64b92f772905d489e5b91bed27c9a9
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc7.unity
+    guid: 25b0b0ddf79d6d14f9f08236a18b7787
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc8.unity
+    guid: c2eafdcd71ad9314399d7606af081d6f
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc9.unity
+    guid: 3a065f0c87124ee49aad4350d51b5d97
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc10.unity
+    guid: 35a36888a8f628c4393f1acebf1aa122
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc11v1.unity
+    guid: 58acfc2edae1e654c9beb43450a78384
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc11v2.unity
+    guid: aba3485043263c744b628890dc5635b8
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc12.unity
+    guid: 724740ab9fa071d44a7c9e9dea113f77
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc13.unity
+    guid: e9c0b73157ff7e6489be148a49e8b4d0
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc14.unity
+    guid: 60a0fed3092088f4f90d1f02f058a80c
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc15v1.unity
+    guid: 8b9ea110698d38848b9055d9aa4864d6
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc15v2.unity
+    guid: a4d0b48531756a440b839b4849a67046
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level1/lvl1Sc16.unity
+    guid: 569c187f797cd554f83c8dfb20e81337
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene1.unity
+    guid: 093cb44385cdbb648a2d3d2ff90cb4f8
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene2.unity
+    guid: 5cfdbd31f77c2a444aebf61a90b16185
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene3.unity
+    guid: f69f8f5154bd59042af8ea9ca721ac28
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene4.unity
+    guid: 4dbae692fa8cbe44ea4b4912048a559e
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene5.unity
+    guid: 00ea1c9611c29e947925add652d40303
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene6.unity
+    guid: efe345a396c1c67498bf8c71a4d05701
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene7.unity
+    guid: 25a937edff23cff488bce6b5bd42b2da
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene8.unity
+    guid: eddbbfb3378a4494f801b86de795d483
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene9v1.unity
+    guid: dfeff5d9d96a21849a15a059114c14a6
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene9v2.unity
+    guid: b2de7ad2dfa77b54f804d576f05700fd
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene10v1.unity
+    guid: a694cf6404153854588b9b87c5576675
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene10v2.unity
+    guid: 9c0dd69e276eb67438fd39e2597d734d
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene11.unity
+    guid: 1ceca9ffc2d7a084d86a44ab93c86c65
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene12.unity
+    guid: 4d49c223adb1a7b4aab07f7426d8d5fe
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene13.unity
+    guid: f3cbdd7367ef80f4088f7f06504d8325
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene14v1.unity
+    guid: 327083a20fba839448ca1c0447449cd1
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene14v2.unity
+    guid: 5ca7720c3d1355947afc569f28d21441
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene15.unity
+    guid: 7291f6337b4cc394cb17722ccfb6f4b6
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene16v1.unity
+    guid: d20d83940bcf8a241867bb13cb9dc9ab
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene16v2.unity
+    guid: 197c1a32bc20aff499ceb539dc95798e
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene17.unity
+    guid: 05ebf9ac33621e44f90030581c1c9c73
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene18.unity
+    guid: 708f24f505affab448d62904e7369859
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene19.unity
+    guid: c2f4877a49189634e8899a1f68d0994a
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene20- BEFRIEND.unity
+    guid: 59c30bd8c608d374f84d43ef4fc24e31
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene20-IGNORE.unity
+    guid: 0106d8adb824da54e8802f4e719ba749
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene21.unity
+    guid: b9324cb1332aaac499bf9242c876bd52
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene22.unity
+    guid: 3d07c0d53fdd67b4696d236cfe3ec2ec
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene23.unity
+    guid: b73978f56fab94a4395c579353d22100
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene24.unity
+    guid: 22e13cee7e31eb24495dd5f9ac1b1451
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene25.unity
+    guid: e71043e170343dd468c6045a7a8bd640
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene26v1.unity
+    guid: 4fc4d35b250b48c44a854c3b70342cef
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene26v2.unity
+    guid: ec770705f60948045a12b0e42498be50
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level2/lvl2Scene27.unity
+    guid: 7e8e63ce0e2a028418f3e41c55159b44
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc0.unity
+    guid: e8e243c869afda249840a10dfa3d80a2
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc1.unity
+    guid: ff98c3a1d8b35a14cb60bba56539bf14
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc2.unity
+    guid: d05352a37f5db2a48b3f118fa4ed6aaf
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc3v1.unity
+    guid: 9b4fd1591da26ae4d9e4dda3d3376fe5
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc3v2.unity
+    guid: d5083ec761f88de4ba43c685e1b584a0
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc4.unity
+    guid: 8b24031578d803c439be585f951c1328
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc5.unity
+    guid: 329cc63042643934f8fd70fb40a163a6
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc6.unity
+    guid: c2b852c9a97c8fa4cad9098dec5fe89d
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc7v1.unity
+    guid: 27bfb37faed4aea4c994618b6298d372
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc7v2.unity
+    guid: 21e54b2172585ba49a318c719779ab3d
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Level3/lvl3Sc8.unity
+    guid: bdd3a7a286aa1094e9e45852c596989d
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Game Over.unity
+    guid: 4db41fa45c87542daa137dd3e5deb5bf
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Tutorial/t1.unity
+    guid: 4c96a38fddae8004796e03fb97ab8488
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Tutorial/t2.unity
+    guid: cbbbb8268e9561146be21811eb4979a4
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Tutorial/t3.unity
+    guid: 85ae4e297da22c1489286974b463e895
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Tutorial/t4.unity
+    guid: 748ea8d8d71c1544f8f6b9ec5867f8ea
+  - enabled: 1
+    path: Assets/_Minshift_0.0.1/Credits.unity
+    guid: 252e3f34662a40d4ea19b1d77cad28d0

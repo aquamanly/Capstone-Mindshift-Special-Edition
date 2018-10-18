@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7a55db6c59b4de44da2b7142b81e7f51
+timeCreated: 1518063185
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Brushzilla
+  fontNames:
+  - DK Brushzilla
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

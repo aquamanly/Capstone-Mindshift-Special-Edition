@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cursor
+  - NPC
+  - UI
+  - Logic
+  - Music
+  - SpeachControl
+  - Villain
+  - Hero
+  - deck1
+  - cardNew
+  - card4
+  - card3
+  - canvas
+  - soundOfWar
+  - MainSoundtrack
+  - NowSchool
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - NPC
+  - Player
+  - HUD
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 2077567293
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FX
+    uniqueID: 4173219885
+    locked: 0
+  - name: Characters
+    uniqueID: 3924223203
+    locked: 0
+  - name: UI
+    uniqueID: 4258573095
+    locked: 0
+  - name: HUD
+    uniqueID: 560376435
+    locked: 0
